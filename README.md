@@ -1,4 +1,4 @@
-# Mis-Proyectos
+# Mis Proyectos
 Repositorio que contiene enlaces a mis proyectos en Netlify.
 
 # Mis Proyectos en Netlify
