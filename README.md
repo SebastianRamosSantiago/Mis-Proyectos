@@ -5,12 +5,12 @@ Repositorio que contiene enlaces a mis proyectos en Netlify.
 
  **Proyecto 1:**
    - URL: [(https://1-primerproyectoweb-sebastianramos.netlify.app/)](https://1-primerproyectoweb-sebastianramos.netlify.app/)
-   - Descripción: Breve descripción del proyecto 1.
+   - Descripción: Sitio Web Freelancer.
 
  **Proyecto 2:**
    - URL: [https://2-tienda-virtual-sebastianramos.netlify.app/](https://2-tienda-virtual-sebastianramos.netlify.app/)
-   - Descripción: Breve descripción del proyecto 2.
+   - Descripción: Tienda de Ropa.
 
  **Proyecto 3:**
    - URL: [https://3-bienesraices-sebastianramos.netlify.app/](https://3-bienesraices-sebastianramos.netlify.app/)
-   - Descripción: Breve descripción del proyecto 3.
+   - Descripción: Sitio Web de Bienes Raices.
