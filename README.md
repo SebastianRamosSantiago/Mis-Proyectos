@@ -20,5 +20,5 @@ Repositorio que contiene enlaces a mis proyectos en Netlify.
    - Descripción: Blog de Café.
 
    **Proyecto 5:**
-   - URL: [[https://5-blogdecafe-srs.netlify.app/](https://festival-de-musica-edm.netlify.app/)
+   - URL: [[https://festival-de-musica-edm.netlify.app/](https://festival-de-musica-edm.netlify.app/)
    - Descripción: Festival de Música.
